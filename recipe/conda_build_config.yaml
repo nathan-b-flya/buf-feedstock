@@ -1,4 +1,4 @@
-c_stdlib_version:          # [osx and x86_64]
-  - 10.13                  # [osx and x86_64]
+c_stdlib_version:          # [osx]
+  - 11.0                   # [osx]
 macos_min_version:         # [osx]
-  - 10.13                  # [osx]
+  - 11.0                   # [osx]
